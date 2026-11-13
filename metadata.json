@@ -1,0 +1,6 @@
+{
+  "name": "Fast PDF Merge Educacional",
+  "description": "Aplicação web e mobile minimalista para mesclagem e organização de diários e relatórios acadêmicos em PDF diretamente no navegador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

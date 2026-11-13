@@ -1,0 +1,122 @@
+[
+  {
+    "periodo": "Módulo 1",
+    "modulo": 1,
+    "disciplinas": [
+      {
+        "codigo": "SJPDTCO",
+        "disciplina": "Desenho Técnico e Computacional"
+      },
+      {
+        "codigo": "SJPELBA",
+        "disciplina": "Eletricidade Básica"
+      },
+      {
+        "codigo": "SJPFISA",
+        "disciplina": "Física Aplicada"
+      },
+      {
+        "codigo": "SJPIAIN",
+        "disciplina": "Introdução à Automação e Indústria 4.0"
+      },
+      {
+        "codigo": "SJPMATA",
+        "disciplina": "Matemática Aplicada"
+      },
+      {
+        "codigo": "SJPPROA",
+        "disciplina": "Programação Aplicada"
+      }
+    ]
+  },
+  {
+    "periodo": "Módulo 2",
+    "modulo": 2,
+    "disciplinas": [
+      {
+        "codigo": "SJPCELE",
+        "disciplina": "Circuitos Elétricos"
+      },
+      {
+        "codigo": "SJPELAN",
+        "disciplina": "Eletrônica Analógica"
+      },
+      {
+        "codigo": "SJPEDIG",
+        "disciplina": "Eletrônica Digital"
+      },
+      {
+        "codigo": "SJPINGL",
+        "disciplina": "Inglês Instrumental"
+      },
+      {
+        "codigo": "SJPINEL",
+        "disciplina": "Instalações Elétricas"
+      },
+      {
+        "codigo": "SJPSSTR",
+        "disciplina": "Saúde e Segurança do Trabalho"
+      }
+    ]
+  },
+  {
+    "periodo": "Módulo 3",
+    "modulo": 3,
+    "disciplinas": [
+      {
+        "codigo": "SJPCLPR",
+        "disciplina": "Controlador Lógico Programável e Redes Industriais"
+      },
+      {
+        "codigo": "SJPHPNE",
+        "disciplina": "Hidráulica e Pneumática"
+      },
+      {
+        "codigo": "SJPMQCE",
+        "disciplina": "Máquinas e Comandos Elétricos"
+      },
+      {
+        "codigo": "SJPPJA1",
+        "disciplina": "Projeto Integrador 1"
+      },
+      {
+        "codigo": "SJPREDT",
+        "disciplina": "Redação Técnica"
+      },
+      {
+        "codigo": "SJPSMIC",
+        "disciplina": "Sistemas Microcontrolados"
+      }
+    ]
+  },
+  {
+    "periodo": "Módulo 4",
+    "modulo": 4,
+    "disciplinas": [
+      {
+        "codigo": "SJPCOPR",
+        "disciplina": "Controle de Processos Industriais"
+      },
+      {
+        "codigo": "SJPGQEM",
+        "disciplina": "Gestão da Produção, Qualidade e Empreendedorismo"
+      },
+      {
+        "codigo": "SJPPJA2",
+        "disciplina": "Projeto Integrador 2"
+      },
+      {
+        "codigo": "SJPRSMA",
+        "disciplina": "Robótica e Sistemas de Manufatura"
+      },
+      {
+        "codigo": "SJPSIMA",
+        "disciplina": "Sistemas de Manutenção"
+      },
+      {
+        "codigo": "SJPSOMA",
+        "disciplina": "Sociedade e Meio Ambiente"
+      }
+    ]
+  }
+]

@@ -1,0 +1,238 @@
+[
+  {
+    "periodo": "1º Ano",
+    "ano": 1,
+    "disciplinas": [
+      {
+        "codigo": "SJPALPR",
+        "disciplina": "Algoritmo e Lógica de Programação"
+      },
+      {
+        "codigo": "SJPART1",
+        "disciplina": "Artes 1"
+      },
+      {
+        "codigo": "SJPBND1",
+        "disciplina": "Banco de Dados 1"
+      },
+      {
+        "codigo": "SJPBIO1",
+        "disciplina": "Biologia 1"
+      },
+      {
+        "codigo": "SJPDSW1",
+        "disciplina": "Desenvolvimento Web 1"
+      },
+      {
+        "codigo": "SJPEFI1",
+        "disciplina": "Educação Física 1"
+      },
+      {
+        "codigo": "SJPFPCI",
+        "disciplina": "Filosofia, Política e Cidadania"
+      },
+      {
+        "codigo": "SJPFIS1",
+        "disciplina": "Física 1"
+      },
+      {
+        "codigo": "SJPFNDI",
+        "disciplina": "Fundamentos de Informática"
+      },
+      {
+        "codigo": "SJPGEO1",
+        "disciplina": "Geografia 1"
+      },
+      {
+        "codigo": "SJPHIS1",
+        "disciplina": "História 1"
+      },
+      {
+        "codigo": "SJPINFO",
+        "disciplina": "Informática Básica"
+      },
+      {
+        "codigo": "SJPIGL1",
+        "disciplina": "Língua Inglesa 1"
+      },
+      {
+        "codigo": "SJPLPT1",
+        "disciplina": "Língua Portuguesa 1"
+      },
+      {
+        "codigo": "SJPMAT1",
+        "disciplina": "Matemática 1"
+      },
+      {
+        "codigo": "SJPMAAC",
+        "disciplina": "Matemática Aplicada ao Algoritmo Computacional"
+      },
+      {
+        "codigo": "SJPQUI1",
+        "disciplina": "Química 1"
+      }
+    ]
+  },
+  {
+    "periodo": "2º Ano",
+    "ano": 2,
+    "disciplinas": [
+      {
+        "codigo": "SJPAPRS",
+        "disciplina": "Análise e Projeto de Sistemas"
+      },
+      {
+        "codigo": "SJPART2",
+        "disciplina": "Artes 2"
+      },
+      {
+        "codigo": "SJPBND2",
+        "disciplina": "Banco de Dados 2"
+      },
+      {
+        "codigo": "SJPBIO2",
+        "disciplina": "Biologia 2"
+      },
+      {
+        "codigo": "SJPDSW2",
+        "disciplina": "Desenvolvimento Web 2"
+      },
+      {
+        "codigo": "SJPEFI2",
+        "disciplina": "Educação Física 2"
+      },
+      {
+        "codigo": "SJPFIL1",
+        "disciplina": "Filosofia 1"
+      },
+      {
+        "codigo": "SJPFIS2",
+        "disciplina": "Física 2"
+      },
+      {
+        "codigo": "SJPGEO2",
+        "disciplina": "Geografia 2"
+      },
+      {
+        "codigo": "SJPHIS2",
+        "disciplina": "História 2"
+      },
+      {
+        "codigo": "SJPIGL2",
+        "disciplina": "Língua Inglesa 2"
+      },
+      {
+        "codigo": "SJPLPT2",
+        "disciplina": "Língua Portuguesa 2"
+      },
+      {
+        "codigo": "SJPLPR1",
+        "disciplina": "Linguagem de Programação 1"
+      },
+      {
+        "codigo": "SJPMAT2",
+        "disciplina": "Matemática 2"
+      },
+      {
+        "codigo": "SJPQU12",
+        "disciplina": "Química 2"
+      },
+      {
+        "codigo": "SJPSIOP",
+        "disciplina": "Sistemas Operacionais"
+      },
+      {
+        "codigo": "SJPSOC1",
+        "disciplina": "Sociologia 1"
+      },
+      {
+        "codigo": "SJPTECM",
+        "disciplina": "Tecnologia e Comunicação"
+      }
+    ]
+  },
+  {
+    "periodo": "3º Ano",
+    "ano": 3,
+    "disciplinas": [
+      {
+        "codigo": "SJPART3",
+        "disciplina": "Artes 3"
+      },
+      {
+        "codigo": "SJPBIO3",
+        "disciplina": "Biologia 3"
+      },
+      {
+        "codigo": "SJPEF13",
+        "disciplina": "Educação Física 3"
+      },
+      {
+        "codigo": "SJPEMPR",
+        "disciplina": "Empreendedorismo"
+      },
+      {
+        "codigo": "SJPFIL2",
+        "disciplina": "Filosofia 2"
+      },
+      {
+        "codigo": "SJPFIS3",
+        "disciplina": "Física 3"
+      },
+      {
+        "codigo": "SJPGEO3",
+        "disciplina": "Geografia 3"
+      },
+      {
+        "codigo": "SJPHIS3",
+        "disciplina": "História 3"
+      },
+      {
+        "codigo": "SJPINGI",
+        "disciplina": "Inglês Instrumental"
+      },
+      {
+        "codigo": "SJPLPT3",
+        "disciplina": "Língua Portuguesa 3"
+      },
+      {
+        "codigo": "SJPLPR2",
+        "disciplina": "Linguagem de Programação 2"
+      },
+      {
+        "codigo": "SJPMAT3",
+        "disciplina": "Matemática 3"
+      },
+      {
+        "codigo": "SJPPROI",
+        "disciplina": "Projeto Integrador"
+      },
+      {
+        "codigo": "SJPQU13",
+        "disciplina": "Química 3"
+      },
+      {
+        "codigo": "SJPRDSC",
+        "disciplina": "Redes de Computadores"
+      },
+      {
+        "codigo": "SJPSOC2",
+        "disciplina": "Sociologia 2"
+      }
+    ]
+  },
+  {
+    "periodo": "Optativas",
+    "ano": 4,
+    "disciplinas": [
+      {
+        "codigo": "SJPLIBR",
+        "disciplina": "Libras"
+      },
+      {
+        "codigo": "SJPLESP",
+        "disciplina": "Língua Espanhola"
+      }
+    ]
+  }
+]

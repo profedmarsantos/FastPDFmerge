@@ -1,0 +1,43 @@
+@import "@fontsource/inter/latin-400.css";
+@import "@fontsource/inter/latin-500.css";
+@import "@fontsource/inter/latin-600.css";
+@import "@fontsource/inter/latin-700.css";
+@import "tailwindcss";
+
+/* Reserve scrollbar gutter on html to prevent horizontal layout shift between short and long views */
+html {
+  scrollbar-gutter: stable;
+}
+
+/* ==========================================================================
+   Zero Layout Shift on Interactive Bold / Font-Weight Changes
+   Prevents text width changes when font becomes bold/semibold on hover,
+   active, or selected states from pushing or jittering surrounding UI.
+   ========================================================================== */
+
+.prevent-shift-bold,
+[data-text] {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.prevent-shift-bold::after,
+[data-text]::after {
+  content: attr(data-text);
+  height: 0;
+  line-height: 0;
+  visibility: hidden;
+  overflow: hidden;
+  user-select: none;
+  pointer-events: none;
+  font-weight: 600;
+}
+
+/* Alternative: text-shadow mimicking bold without altering glyph bounding box */
+.font-fake-bold {
+  text-shadow: 0.018em 0 0 currentColor, -0.018em 0 0 currentColor;
+}
+

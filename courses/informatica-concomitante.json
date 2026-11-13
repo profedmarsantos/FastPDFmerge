@@ -1,0 +1,118 @@
+[
+  {
+    "periodo": "Módulo 1",
+    "modulo": 1,
+    "disciplinas": [
+      {
+        "codigo": "SJPALPR",
+        "disciplina": "Algoritmo e Lógica de Programação"
+      },
+      {
+        "codigo": "SJPCDCU",
+        "disciplina": "Cidadania e Diversidade Cultural"
+      },
+      {
+        "codigo": "SJPFMCO",
+        "disciplina": "Fundamentos da Matemática para Computação"
+      },
+      {
+        "codigo": "SJPHCPE",
+        "disciplina": "Hardware de Computadores Pessoais"
+      },
+      {
+        "codigo": "SJPINFB",
+        "disciplina": "Informática Básica"
+      },
+      {
+        "codigo": "SJPIADM",
+        "disciplina": "Introdução à Administração"
+      },
+      {
+        "codigo": "SJPPTRE",
+        "disciplina": "Português e Redação"
+      }
+    ]
+  },
+  {
+    "periodo": "Módulo 2",
+    "modulo": 2,
+    "disciplinas": [
+      {
+        "codigo": "SJPAOOB",
+        "disciplina": "Análise Orientada a Objetos"
+      },
+      {
+        "codigo": "SJPBNDA",
+        "disciplina": "Banco de Dados"
+      },
+      {
+        "codigo": "SJPINGL",
+        "disciplina": "Inglês Técnico"
+      },
+      {
+        "codigo": "SJPPOOB",
+        "disciplina": "Programação Orientada a Objetos"
+      },
+      {
+        "codigo": "SJPSIOP",
+        "disciplina": "Sistemas Operacionais"
+      }
+    ]
+  },
+  {
+    "periodo": "Módulo 3",
+    "modulo": 3,
+    "disciplinas": [
+      {
+        "codigo": "SJPDEW1",
+        "disciplina": "Desenvolvimento Web 1"
+      },
+      {
+        "codigo": "SJPEMPR",
+        "disciplina": "Engenharia de Software"
+      },
+      {
+        "codigo": "SJPFRCO",
+        "disciplina": "Fundamentos de Redes de Computadores"
+      },
+      {
+        "codigo": "SJPPRI1",
+        "disciplina": "Projeto Integrador 1"
+      },
+      {
+        "codigo": "SJPSEDI",
+        "disciplina": "Segurança Digital"
+      }
+    ]
+  },
+  {
+    "periodo": "Módulo 4",
+    "modulo": 4,
+    "disciplinas": [
+      {
+        "codigo": "SJPDMOB",
+        "disciplina": "Desenvolvimento Mobile"
+      },
+      {
+        "codigo": "SJPDWE2",
+        "disciplina": "Desenvolvimento Web 2"
+      },
+      {
+        "codigo": "SJPEGSO",
+        "disciplina": "Empreendedorismo"
+      },
+      {
+        "codigo": "SJPLPRG",
+        "disciplina": "Laboratório de Programação"
+      },
+      {
+        "codigo": "SJPLIBA",
+        "disciplina": "Libras Básico"
+      },
+      {
+        "codigo": "SJPPR12",
+        "disciplina": "Projeto Integrador 2"
+      }
+    ]
+  }
+]

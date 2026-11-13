@@ -1,0 +1,220 @@
+[
+  {
+    "periodo": "1º Ano",
+    "ano": 1,
+    "disciplinas": [
+      {
+        "codigo": "SJPART1",
+        "disciplina": "Artes 1"
+      },
+      {
+        "codigo": "SJPBIO1",
+        "disciplina": "Biologia 1"
+      },
+      {
+        "codigo": "SJPCIRC",
+        "disciplina": "Circuitos Elétricos"
+      },
+      {
+        "codigo": "SJPDETC",
+        "disciplina": "Desenho Técnico e Computacional"
+      },
+      {
+        "codigo": "SJPEFI1",
+        "disciplina": "Educação Física 1"
+      },
+      {
+        "codigo": "SJPELED",
+        "disciplina": "Eletrônica Digital"
+      },
+      {
+        "codigo": "SJPFPCI",
+        "disciplina": "Filosofia, Política e Cidadania"
+      },
+      {
+        "codigo": "SJPFIS1",
+        "disciplina": "Física 1"
+      },
+      {
+        "codigo": "SJPGEO1",
+        "disciplina": "Geografia 1"
+      },
+      {
+        "codigo": "SJPHIS1",
+        "disciplina": "História 1"
+      },
+      {
+        "codigo": "SJPIGL1",
+        "disciplina": "Língua Inglesa 1"
+      },
+      {
+        "codigo": "SJPLPT1",
+        "disciplina": "Língua Portuguesa 1"
+      },
+      {
+        "codigo": "SJPMAT1",
+        "disciplina": "Matemática 1"
+      },
+      {
+        "codigo": "SJPPROG",
+        "disciplina": "Programação Aplicada à Automação"
+      },
+      {
+        "codigo": "SJPQUI1",
+        "disciplina": "Química 1"
+      }
+    ]
+  },
+  {
+    "periodo": "2º Ano",
+    "ano": 2,
+    "disciplinas": [
+      {
+        "codigo": "SJPART2",
+        "disciplina": "Artes 2"
+      },
+      {
+        "codigo": "SJPBIO2",
+        "disciplina": "Biologia 2"
+      },
+      {
+        "codigo": "SJPEFI2",
+        "disciplina": "Educação Física 2"
+      },
+      {
+        "codigo": "SJPELEA",
+        "disciplina": "Eletrônica Analógica"
+      },
+      {
+        "codigo": "SJPFIL1",
+        "disciplina": "Filosofia 1"
+      },
+      {
+        "codigo": "SJPFIS2",
+        "disciplina": "Física 2"
+      },
+      {
+        "codigo": "SJPGEO2",
+        "disciplina": "Geografia 2"
+      },
+      {
+        "codigo": "SJPHIS2",
+        "disciplina": "História 2"
+      },
+      {
+        "codigo": "SJPINST",
+        "disciplina": "Instalações Elétricas"
+      },
+      {
+        "codigo": "SJPIGL2",
+        "disciplina": "Língua Inglesa 2"
+      },
+      {
+        "codigo": "SJPLPT2",
+        "disciplina": "Língua Portuguesa 2"
+      },
+      {
+        "codigo": "SJPMACO",
+        "disciplina": "Máquinas e Comandos Elétricos"
+      },
+      {
+        "codigo": "SJPMAT2",
+        "disciplina": "Matemática 2"
+      },
+      {
+        "codigo": "SJPPRA1",
+        "disciplina": "Projeto Integrador 1"
+      },
+      {
+        "codigo": "SJPQUI2",
+        "disciplina": "Química 2"
+      },
+      {
+        "codigo": "SJPSAST",
+        "disciplina": "Saúde e Segurança do Trabalho"
+      },
+      {
+        "codigo": "SJPSOST",
+        "disciplina": "Sociologia, Sustentabilidade e Trabalho"
+      }
+    ]
+  },
+  {
+    "periodo": "3º Ano",
+    "ano": 3,
+    "disciplinas": [
+      {
+        "codigo": "SJPART3",
+        "disciplina": "Artes 3"
+      },
+      {
+        "codigo": "SJPBIO3",
+        "disciplina": "Biologia 3"
+      },
+      {
+        "codigo": "SJPCLRI",
+        "disciplina": "Controlador Lógico Programável e Redes Industriais"
+      },
+      {
+        "codigo": "SJPCONT",
+        "disciplina": "Controle de Processos Industriais"
+      },
+      {
+        "codigo": "SJPEF13",
+        "disciplina": "Educação Física 3"
+      },
+      {
+        "codigo": "SJPFIL2",
+        "disciplina": "Filosofia 2"
+      },
+      {
+        "codigo": "SJPFIS3",
+        "disciplina": "Física 3"
+      },
+      {
+        "codigo": "SJPGEO3",
+        "disciplina": "Geografia 3"
+      },
+      {
+        "codigo": "SJPHIDP",
+        "disciplina": "Hidráulica e Pneumática"
+      },
+      {
+        "codigo": "SJPHIS3",
+        "disciplina": "História 3"
+      },
+      {
+        "codigo": "SJPININ",
+        "disciplina": "Inglês Instrumental"
+      },
+      {
+        "codigo": "SJPLPT3",
+        "disciplina": "Língua Portuguesa 3"
+      },
+      {
+        "codigo": "SJPMAT3",
+        "disciplina": "Matemática 3"
+      },
+      {
+        "codigo": "SJPPR12",
+        "disciplina": "Projeto Integrador 2"
+      },
+      {
+        "codigo": "SJPQUI3",
+        "disciplina": "Química 3"
+      },
+      {
+        "codigo": "SJPSIMR",
+        "disciplina": "Sistemas de Manufatura Integrada e Robótica"
+      },
+      {
+        "codigo": "SJPSISM",
+        "disciplina": "Sistemas Microcontrolados"
+      },
+      {
+        "codigo": "SJPSOC1",
+        "disciplina": "Sociologia 1"
+      }
+    ]
+  }
+]
